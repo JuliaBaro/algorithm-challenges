@@ -1,5 +1,3 @@
-//https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/arguments-optional/
-
 function addTogether() 
 {
   let checkIfNum = function(num)
