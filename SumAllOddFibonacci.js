@@ -1,5 +1,3 @@
-//https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/sum-all-odd-fibonacci-numbers
-
 function addOdds(fibNums, num)
 {
     let sum = 0;
