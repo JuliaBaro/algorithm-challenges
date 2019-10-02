@@ -1,5 +1,3 @@
-//https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/binary-agents
-
 function binaryAgent(str) 
 {
     let splitted = str.split(" ");
